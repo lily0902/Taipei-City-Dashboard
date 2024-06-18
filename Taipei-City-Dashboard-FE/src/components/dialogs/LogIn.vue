@@ -72,7 +72,7 @@ function handleClose() {
 				</button>
 			</div>
 			<div v-if="loginMode === 'email'" class="login-form">
-				<label>電子郵機</label>
+				<label>電子郵件</label>
 				<input v-model="email" required type="email" />
 				<label>密碼</label>
 				<input v-model="password" required type="password" />
