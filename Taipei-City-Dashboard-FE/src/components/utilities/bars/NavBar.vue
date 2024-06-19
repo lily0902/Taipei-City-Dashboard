@@ -145,7 +145,7 @@ const linkQuery = computed(() => {
 				"
 				class="navbar-user-user"
 			>
-				<button @click="dialogStore.showDialog('login')">登333</button>
+				<button @click="dialogStore.showDialog('login')">登機</button>
 			</div>
 		</div>
 	</div>
