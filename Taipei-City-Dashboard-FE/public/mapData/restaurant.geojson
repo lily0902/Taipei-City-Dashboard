@@ -1,0 +1,689 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.287,24.8833 ]
+    },
+    "properties": {
+    "地區":"大溪區",
+    "餐廳名稱":"溪友緣風味料理店",
+    "地址":"桃園市大溪區仁愛路9號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2886,24.8878 ]
+    },
+    "properties": {
+    "地區":"大溪區",
+    "餐廳名稱":"老地方客家菜",
+    "地址":"桃園市大溪區員林路一段489號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2887,24.8868 ]
+    },
+    "properties": {
+    "地區":"大溪區",
+    "餐廳名稱":"大溪紅樓",
+    "地址":"桃園市大溪區復興路152號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2882,24.8873 ]
+    },
+    "properties": {
+    "地區":"大溪區",
+    "餐廳名稱":"大溪鵝莊",
+    "地址":"桃園市大溪區復興路34號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2235,24.9651 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"滿滿客家菜館",
+    "地址":"桃園市中壢區中豐路183"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2196,24.956 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"佳家福客家菜館",
+    "地址":"桃園市中壢區環西路69號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2191,24.9625 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"輕鬆餐館",
+    "地址":"桃園市中壢區中央西路2段195號1樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2404,24.974 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"美鵑園餐廳",
+    "地址":"桃園市中壢區吉林二路77號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2325,24.9733 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"饌園餐館",
+    "地址":"桃園市中壢區普義路186號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2348,24.9713 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"欣園餐館",
+    "地址":"桃園市中壢區中美路二段142號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.228,24.9722 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"品傑首烏御膳館",
+    "地址":"桃園市中壢區環北路435號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.225,24.953 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"錦家御宴",
+    "地址":"桃園市中壢區中山路88號B1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.229,24.96 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"伍角?小吃",
+    "地址":"桃園市中壢區中山東路一段42號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2285,24.9653 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"微笑元素蔬食咖啡",
+    "地址":"桃園市中壢區南園二路388號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.232,24.9603 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"中平素食之家",
+    "地址":"桃園市中壢區新興路210號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2315,24.965 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"金欣鵝肉亭",
+    "地址":"桃園市中壢區龍岡路一段170號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2273,24.9703 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"新百王客式海鮮料理",
+    "地址":"桃園市中壢區天祥三街7號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2172,24.9435 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"釀香居懷舊餐廳",
+    "地址":"桃園市平鎮區平東路25號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2135,24.9437 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"酒廠復古小館",
+    "地址":"桃園市平鎮區延平路二段79號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2123,24.9428 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"土埆厝復古小館",
+    "地址":"桃園市平鎮區東光路7號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2098,24.9398 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"善園客家小館",
+    "地址":"桃園市平鎮區環南路三段315號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.215,24.946 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"大中壢鵝莊",
+    "地址":"桃園市平鎮區民族路二段133號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2148,24.9463 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"萬芳鄉親鵝肉城(鄉親鵝肉店)",
+    "地址":"桃園市平鎮區民族路235號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2328,24.9615 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"阿海飲食店",
+    "地址":"桃園市中壢區新興路268號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2217,24.968 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"皇帝嶺國際餐飲事業",
+    "地址":"桃園市中壢區環中東路776號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.232,24.9765 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"新轉角手作料理",
+    "地址":"桃園市中壢區月眉路一段126號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2257,24.9648 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"碧園(欣園)餐館",
+    "地址":"桃園市中壢區中台路10號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2295,24.9633 ]
+    },
+    "properties": {
+    "地區":"中壢區",
+    "餐廳名稱":"千暉鵝肉店",
+    "地址":"桃園市中壢區志廣路65號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2133,24.946 ]
+    },
+    "properties": {
+    "地區":"平鎮區",
+    "餐廳名稱":"茂園和漢美食館",
+    "地址":"桃園市平鎮區延平路二段371號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3017,24.994 ]
+    },
+    "properties": {
+    "地區":"桃園區",
+    "餐廳名稱":"柚子花花青春客家菜",
+    "地址":"桃園市桃園區中正路1270號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.305,24.993 ]
+    },
+    "properties": {
+    "地區":"桃園區",
+    "餐廳名稱":"桃園金讚鵝肉店",
+    "地址":"桃園市桃園區中山東路32之20號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0393,24.9717 ]
+    },
+    "properties": {
+    "地區":"新屋區",
+    "餐廳名稱":"新創客家美食",
+    "地址":"桃園市新屋區頭洲里民族路6段155號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0282,24.9803 ]
+    },
+    "properties": {
+    "地區":"新屋區",
+    "餐廳名稱":"友福花園農莊",
+    "地址":"桃園市新屋區中山西路二段602號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0342,24.98 ]
+    },
+    "properties": {
+    "地區":"新屋區",
+    "餐廳名稱":"信宏小吃店",
+    "地址":"桃園市新屋區中山路404號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.184,24.918 ]
+    },
+    "properties": {
+    "地區":"楊梅區",
+    "餐廳名稱":"東森山林渡假酒店(更名為麗多森林溫泉酒店)",
+    "地址":" 桃園市楊梅區東森路3號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.176,24.9147 ]
+    },
+    "properties": {
+    "地區":"楊梅區",
+    "餐廳名稱":"綠園餐廳(埔心牧場)",
+    "地址":"桃園市楊梅區幼獅路一段439號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1753,24.9103 ]
+    },
+    "properties": {
+    "地區":"楊梅區",
+    "餐廳名稱":"古秀才客家海鮮館",
+    "地址":"桃園市楊梅區大平里秀才路157之1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.181,24.9153 ]
+    },
+    "properties": {
+    "地區":"楊梅區",
+    "餐廳名稱":"福記富貴餐廳",
+    "地址":"桃園市楊梅區新農街205號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1832,24.9175 ]
+    },
+    "properties": {
+    "地區":"楊梅區",
+    "餐廳名稱":"阿蘭姐三代老店",
+    "地址":"桃園市楊梅區大成路23號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21,24.875 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"松葉園",
+    "地址":"桃園市龍潭區龍新路三和段1008號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21,24.862 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"山水緣餐廳",
+    "地址":"桃園市龍潭區三水里大北坑街1998巷47號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2105,24.862 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"大江屋復古餐廳",
+    "地址":"桃園市龍潭區大北坑街1998巷65號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2057,24.8585 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"采莊庭園餐廳",
+    "地址":"桃園市龍潭區永福路136-1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.203,24.8545 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"新龍泉花園餐廳",
+    "地址":"桃園市龍潭區中正路三坑段768巷32號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2037,24.8535 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"桂竹屋餐廳",
+    "地址":"桃園市龍潭區大同路99號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.203,24.8525 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"亨味食堂",
+    "地址":"桃園市龍潭區民治十六街87巷25號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.202,24.8517 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"提緣客家小館",
+    "地址":"桃園市龍潭區中正路上華段112巷54號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2017,24.8505 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"大楊梅鵝莊",
+    "地址":"桃園市龍潭區神龍路96巷2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.201,24.8493 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"心蘭活魚餐廳",
+    "地址":"桃園市龍潭區佳安里11分路200號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2005,24.8487 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"綠野鄉村活魚餐廳",
+    "地址":"桃園市龍潭區中正路佳安段380號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1997,24.8473 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"石園活魚餐廳",
+    "地址":"桃園市龍潭區文化路57-2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.199,24.8465 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"磊園活魚餐廳",
+    "地址":"桃園市龍潭區三坑村中正路三坑段711號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1985,24.8457 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"祥和園活魚餐廳",
+    "地址":"桃園市龍潭區中正路三坑段779號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.198,24.8445 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"老頭擺客家菜",
+    "地址":"桃園市龍潭區中正路三坑段546號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1975,24.8435 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"知味囍宴餐廳",
+    "地址":"桃園市龍潭區五福街262巷67之2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.197,24.8425 ]
+    },
+    "properties": {
+    "地區":"龍潭區",
+    "餐廳名稱":"紅?活魚餐廳",
+    "地址":"桃園市龍潭區中正路三坑段688號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.12,25 ]
+    },
+    "properties": {
+    "地區":"觀音區",
+    "餐廳名稱":"上讚美食",
+    "地址":"桃園市觀音區福壽街201號"
+    }
+  }
+]
+}

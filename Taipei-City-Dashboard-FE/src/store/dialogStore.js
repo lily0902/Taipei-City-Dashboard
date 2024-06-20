@@ -34,6 +34,9 @@ export const useDialogStore = defineStore("dialog", {
 			moreInfo: false,
 			notificationBar: false,
 			reportIssue: false,
+			reportIssueType1: false, // 新增
+			reportIssueType2: false, // 新增
+			reportIssueType3: false, // 新增
 			userSettings: false,
 			embedComponent: false,
 			contributorsList: false,
@@ -90,7 +93,15 @@ export const useDialogStore = defineStore("dialog", {
 		},
 		// Show the report issue dialog and enter the id and name of the component of origin
 		showReportIssue(id, index, name) {
-			this.showDialog("reportIssue");
+			if (id === 7) {
+				this.showDialog("reportIssueType1");
+			} else if (id === 30) {
+				this.showDialog("reportIssueType2");
+			} else if (id === 43) {
+				this.showDialog("reportIssueType3");
+			} else {
+				this.showDialog("reportIssue");
+			}
 			this.issue = {
 				id: id,
 				index: index,

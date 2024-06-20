@@ -1,0 +1,3602 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"歡喜農場",
+    "Add":"336 桃園市復興區華陵里14鄰中心路86巷8號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"桃子菇菇",
+    "Add":"336 桃園市復興區中心路148號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2325,24.95665 ]
+    },
+    "properties": {
+    "Name":"捷適商旅",
+    "Add":"320 桃園市中壢區德義里13鄰中山東路1段155號1至8樓,157號1-2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.19744,24.9469 ]
+    },
+    "properties": {
+    "Name":"詠信汽車旅館",
+    "Add":"327 桃園市新屋區梅高路二段551巷10號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22863,24.95375 ]
+    },
+    "properties": {
+    "Name":"名仕旅舘",
+    "Add":"320 桃園市中壢區新興路242號1-6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28551,24.88718 ]
+    },
+    "properties": {
+    "Name":"玫瑰左岸莊園",
+    "Add":"335 桃園市大溪區月眉里15鄰信義路2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"侑德心悅",
+    "Add":"336 桃園市復興區中心路160-12號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"山是我家",
+    "Add":"336 桃園市復興區華陵里14鄰巴崚143-6號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41133,24.64801 ]
+    },
+    "properties": {
+    "Name":"星城",
+    "Add":"336 桃園市復興區華陵里14鄰中心一路11巷16號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.25978,25.07914 ]
+    },
+    "properties": {
+    "Name":"景鴻汽車旅館(2星)",
+    "Add":"337 桃園市大園區菓林里三民路二段609之1號至609之18號及609之19號至609之37號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"陌懷宿",
+    "Add":"336 桃園市復興區華陵里10鄰巴崚135之6號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53794,25.07327 ]
+    },
+    "properties": {
+    "Name":"智醫康寓",
+    "Add":"330 桃園市桃園區民生路107號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.15153,24.97385 ]
+    },
+    "properties": {
+    "Name":"ㄚ昌伯民宿",
+    "Add":"328 桃園市觀音區上大里2鄰大湖路一段1185巷8號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.25551,24.97425 ]
+    },
+    "properties": {
+    "Name":"鴻福優雅商旅",
+    "Add":"320 桃園市中壢區忠勤街15號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"佳儂景觀休憩農場",
+    "Add":"336 桃園市復興區華陵里10鄰中心一路11巷37號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31245,24.98903 ]
+    },
+    "properties": {
+    "Name":"漢宮大旅社",
+    "Add":"330 桃園市桃園區長壽街9號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.17997,24.91362 ]
+    },
+    "properties": {
+    "Name":"依蝶汽車旅館(2星)",
+    "Add":"326 桃園市楊梅區四維二路43號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29508,25.01007 ]
+    },
+    "properties": {
+    "Name":"綠的旅館(3星)",
+    "Add":"330 桃園市桃園區寶慶路18號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28846,24.88336 ]
+    },
+    "properties": {
+    "Name":"康莊旅店",
+    "Add":"335 桃園市大溪區康莊路48號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.15182,24.90992 ]
+    },
+    "properties": {
+    "Name":"風閣時尚精品旅館(3星)",
+    "Add":"326 桃園市楊梅區大同里新農街245巷17號1樓、B1樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23592,24.82419 ]
+    },
+    "properties": {
+    "Name":"吾室",
+    "Add":"325 桃園市龍潭區大平里17鄰民治路54號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29239,24.98464 ]
+    },
+    "properties": {
+    "Name":"紫晴汽車旅館",
+    "Add":"330 桃園市桃園區宏昌十三街622、624號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29923,24.89147 ]
+    },
+    "properties": {
+    "Name":"微笑蒔光",
+    "Add":"335 桃園市大溪區月眉路246巷45號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3088,24.89542 ]
+    },
+    "properties": {
+    "Name":"永福萊利民宿",
+    "Add":"335 桃園市大溪區信義路657巷52號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.14525,24.91182 ]
+    },
+    "properties": {
+    "Name":"愛月旅社",
+    "Add":"326 桃園市楊梅區光復街15號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22313,24.95169 ]
+    },
+    "properties": {
+    "Name":"貝多芬旅館",
+    "Add":"320 桃園市中壢區新興路22號1-5樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2725,24.93283 ]
+    },
+    "properties": {
+    "Name":"大世界賓舘",
+    "Add":"334 桃園市八德區長興路516號1-2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30023,25.02578 ]
+    },
+    "properties": {
+    "Name":"皇冠商務汽車旅館(2星)",
+    "Add":"330 桃園市桃園區莊敬路一段150號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22543,24.95254 ]
+    },
+    "properties": {
+    "Name":"愛愛大旅社",
+    "Add":"320 桃園市中壢區新興路116號1-4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31863,24.98336 ]
+    },
+    "properties": {
+    "Name":"櫻珍大飯店(2星)",
+    "Add":"330 桃園市桃園區桃鶯路152號1樓、154號2-6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.34245,24.83985 ]
+    },
+    "properties": {
+    "Name":"101民宿",
+    "Add":"336 桃園市復興區三民里13鄰大窩路101號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29124,24.88337 ]
+    },
+    "properties": {
+    "Name":"大溪老城民宿",
+    "Add":"335 桃園市大溪區東一路37號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"山豬的窩",
+    "Add":"336 桃園市復興區華陵里13鄰巴崚189之8號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"雲享棧",
+    "Add":"336 桃園市復興區中心路156-5號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31127,24.9891 ]
+    },
+    "properties": {
+    "Name":"新秀山賓館",
+    "Add":"330 桃園市桃園區大同路75、77號2-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"拉拉山熊居農莊",
+    "Add":"336 桃園市復興區華陵里8鄰巴崚32之1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.37858,24.7251 ]
+    },
+    "properties": {
+    "Name":"戀戀雅渡",
+    "Add":"336 桃園市復興區高義里7鄰10之3號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.35174,24.81833 ]
+    },
+    "properties": {
+    "Name":"遇見・角板山",
+    "Add":"336 桃園市復興區澤仁里14鄰中正路146號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23224,24.95465 ]
+    },
+    "properties": {
+    "Name":"伯爵商務旅店",
+    "Add":"320 桃園市中壢區中北路二段437巷8號1-4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2274,24.96223 ]
+    },
+    "properties": {
+    "Name":"喬爵旅居",
+    "Add":"320 桃園市中壢區延平路216號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.20438,24.95709 ]
+    },
+    "properties": {
+    "Name":"三揚精品商旅",
+    "Add":"324 桃園市平鎮區民族路二段159號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41672,24.68892 ]
+    },
+    "properties": {
+    "Name":"侑德園",
+    "Add":"336 桃園市復興區華陵村11鄰巴崚160-2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22108,24.95991 ]
+    },
+    "properties": {
+    "Name":"住福旅店",
+    "Add":"320 桃園市中壢區中美路二段117號7樓及7樓之1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.12302,24.96346 ]
+    },
+    "properties": {
+    "Name":"我愛你學田",
+    "Add":"327 桃園市新屋區九斗里2鄰五谷路722巷82號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29001,24.84102 ]
+    },
+    "properties": {
+    "Name":"蘇家莊園",
+    "Add":"335 桃園市大溪區福安里3鄰復興路一段1039號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.38316,24.67959 ]
+    },
+    "properties": {
+    "Name":"山蘇的故鄉",
+    "Add":"336 桃園市復興區華陵里11鄰巴崚180之11號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30895,24.97597 ]
+    },
+    "properties": {
+    "Name":"臻愛風情Motel(3星)",
+    "Add":"330 桃園市桃園區介新街133號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21992,24.95999 ]
+    },
+    "properties": {
+    "Name":"蓮園商務旅館",
+    "Add":"320 桃園市中壢區中美路二段153號5樓之2-5，6樓之2-5，7樓之2-5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29059,25.04497 ]
+    },
+    "properties": {
+    "Name":"水漾時尚旅館",
+    "Add":"338 桃園市蘆竹區洛陽街68號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29097,25.05296 ]
+    },
+    "properties": {
+    "Name":"比佛利商務汽車旅館(3星)",
+    "Add":"338 桃園市蘆竹區南山路一段97-9號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21992,24.96004 ]
+    },
+    "properties": {
+    "Name":"怡香商務旅館",
+    "Add":"320 桃園市中壢區中美路二段153號6樓之12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.16827,24.90944 ]
+    },
+    "properties": {
+    "Name":"凱萊汽車旅館",
+    "Add":"326 桃園市楊梅區中山北路2段56巷1號2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.25432,25.08591 ]
+    },
+    "properties": {
+    "Name":"機場背包客工作室",
+    "Add":"337 桃園市大園區三民路二段106巷12號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"旭美莊園",
+    "Add":"336 桃園市復興區華陵里11鄰巴崚180之12號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1467,24.90911 ]
+    },
+    "properties": {
+    "Name":"晚安旅店",
+    "Add":"326 桃園市楊梅區新農街6號6、7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31333,25.01266 ]
+    },
+    "properties": {
+    "Name":"原鶴旅館",
+    "Add":"330 桃園市桃園區雙峰路122號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.24003,24.96591 ]
+    },
+    "properties": {
+    "Name":"七星花園旅舘",
+    "Add":"320 桃園市中壢區中華路2段152號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22199,24.95307 ]
+    },
+    "properties": {
+    "Name":"中壢大飯店",
+    "Add":"320 桃園市中壢區延平路645號4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21998,24.9595 ]
+    },
+    "properties": {
+    "Name":"薇恩時尚旅館(2星)",
+    "Add":"320 桃園市中壢區永嘉街98號1-2樓;中美路2段153號3樓之6、4樓之8、5樓之8、6樓之8、7樓之8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29762,24.93274 ]
+    },
+    "properties": {
+    "Name":"和樂賓館",
+    "Add":"334 桃園市八德區介壽路二段1149號1-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23201,24.95451 ]
+    },
+    "properties": {
+    "Name":"峇里島汽車旅館",
+    "Add":"320 桃園市中壢區正義里中北路2段437巷1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21103,24.94301 ]
+    },
+    "properties": {
+    "Name":"歐遊精品汽車旅館-中壢館(3星)",
+    "Add":"324 桃園市平鎮區環南路二段139號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.43421,24.66396 ]
+    },
+    "properties": {
+    "Name":"和風山莊",
+    "Add":"336 桃園市復興區華陵里10鄰巴陵160號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"琴莊渡假山莊",
+    "Add":"336 桃園市復興區華陵里11鄰巴崚172-3號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22306,24.95718 ]
+    },
+    "properties": {
+    "Name":"中興商旅",
+    "Add":"320 桃園市中壢區中建里中央西路一段11號4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23763,24.83798 ]
+    },
+    "properties": {
+    "Name":"老屋瓦民宿",
+    "Add":"325 桃園市龍潭區佳安西路4巷92弄1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28814,24.87966 ]
+    },
+    "properties": {
+    "Name":"小巷內",
+    "Add":"335 桃園市大溪區中央路52號之3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23751,24.83785 ]
+    },
+    "properties": {
+    "Name":"緣心",
+    "Add":"325 桃園市龍潭區佳安西路4巷97號2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29697,24.86584 ]
+    },
+    "properties": {
+    "Name":"三橋渡假旅店",
+    "Add":"335 桃園市大溪區瑞興里17鄰瑞安路1段168號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22547,24.96155 ]
+    },
+    "properties": {
+    "Name":"凱都大飯店",
+    "Add":"320 桃園市中壢區慈惠三街88號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29873,24.96054 ]
+    },
+    "properties": {
+    "Name":"亞都商務旅館",
+    "Add":"334 桃園市八德區大慶里忠孝街23號4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.38475,24.67824 ]
+    },
+    "properties": {
+    "Name":"達觀山莊",
+    "Add":"336 桃園市復興區華陵村7鄰27號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.34045,24.82536 ]
+    },
+    "properties": {
+    "Name":"山水奇異",
+    "Add":"336 桃園市復興區丸山10-6號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2173,24.96498 ]
+    },
+    "properties": {
+    "Name":"古華花園飯店(5星)",
+    "Add":"320 桃園市中壢區民權路398號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22122,24.96008 ]
+    },
+    "properties": {
+    "Name":"幸運草輕巧旅店",
+    "Add":"320 桃園市中壢區中美路二段120號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28819,25.05197 ]
+    },
+    "properties": {
+    "Name":"尊爵天際大飯店(5星)",
+    "Add":"338 桃園市蘆竹區南崁路1段108號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29697,24.86584 ]
+    },
+    "properties": {
+    "Name":"巷裡閑",
+    "Add":"335 桃園市大溪區后尾三橫巷2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"二馬山莊",
+    "Add":"336 桃園市復興區華陵里8鄰巴崚47號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.38446,24.79027 ]
+    },
+    "properties": {
+    "Name":"象山農場",
+    "Add":"336 桃園市復興區義盛里6鄰下宇內65號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.35185,24.80877 ]
+    },
+    "properties": {
+    "Name":"霞雲坪泰雅莊園",
+    "Add":"336 桃園市復興區澤仁村霞雲坪18鄰6-1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31578,24.99115 ]
+    },
+    "properties": {
+    "Name":"承攜行旅桃園復興館",
+    "Add":"330 桃園市桃園區復興路96號9樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.18717,24.98774 ]
+    },
+    "properties": {
+    "Name":"彩藤民宿",
+    "Add":"320 桃園市中壢區崇德三路65號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22133,25.06888 ]
+    },
+    "properties": {
+    "Name":"台北諾富特華航桃園機場飯店(5星)",
+    "Add":"337 桃園市大園區航站南路1-1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.17817,24.96772 ]
+    },
+    "properties": {
+    "Name":"南方莊園渡假飯店",
+    "Add":"320 桃園市中壢區樹籽路8號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.37523,24.67568 ]
+    },
+    "properties": {
+    "Name":"爺亨溫泉民宿",
+    "Add":"336 桃園市復興區三光里9鄰爺亨24號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39953,24.67661 ]
+    },
+    "properties": {
+    "Name":"水蜜桃渡假莊園",
+    "Add":"336 桃園市復興區華陵里8鄰巴崚30之8號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22547,24.95262 ]
+    },
+    "properties": {
+    "Name":"佳美旅館",
+    "Add":"320 桃園市中壢區新興路120號1-4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29158,25.04649 ]
+    },
+    "properties": {
+    "Name":"甲桂林商務旅館(3星)",
+    "Add":"338 桃園市蘆竹區桃園街106號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22658,24.96164 ]
+    },
+    "properties": {
+    "Name":"貴都城市商旅",
+    "Add":"320 桃園市中壢區元化路245-1、245-2號4、5樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21992,24.96004 ]
+    },
+    "properties": {
+    "Name":"夢境芯旅館",
+    "Add":"320 桃園市中壢區中美路二段153號4樓之1-6、13-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.37717,24.79201 ]
+    },
+    "properties": {
+    "Name":"小烏來山莊",
+    "Add":"336 桃園市復興區義盛里1鄰宇內路99號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2186,24.94104 ]
+    },
+    "properties": {
+    "Name":"莫尼旅店",
+    "Add":"324 桃園市平鎮區德育路二段178號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30164,25.02474 ]
+    },
+    "properties": {
+    "Name":"六星旅館",
+    "Add":"330 桃園市桃園區經國路721號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30183,25.02364 ]
+    },
+    "properties": {
+    "Name":"里萊行旅",
+    "Add":"330 桃園市桃園區天祥七街25號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.26889,24.98052 ]
+    },
+    "properties": {
+    "Name":"凱富旅館",
+    "Add":"330 桃園市桃園區龍壽街84號1-7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"留雲軒",
+    "Add":"336 桃園市復興區華陵里12鄰巴陵183號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"富仙境 ",
+    "Add":"336 桃園市復興區華陵里8鄰巴崚31號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3205,24.97393 ]
+    },
+    "properties": {
+    "Name":"金莎堡汽車旅館",
+    "Add":"330 桃園市桃園區樹仁三街133號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30076,24.89629 ]
+    },
+    "properties": {
+    "Name":"悅鼎-山林溪休閒渡假民宿",
+    "Add":"335 桃園市大溪區信義路525巷10弄371-1、-2、-3、-5號3、4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22881,24.84383 ]
+    },
+    "properties": {
+    "Name":"名人堂花園大飯店",
+    "Add":"325 桃園市龍潭區民生路141巷150號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39895,24.68643 ]
+    },
+    "properties": {
+    "Name":"周家渡假旅館",
+    "Add":"336 桃園市復興區華陵村10鄰巴陵113號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22504,24.9542 ]
+    },
+    "properties": {
+    "Name":"寶山旅社",
+    "Add":"320 桃園市中壢區中正路16號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22481,24.95382 ]
+    },
+    "properties": {
+    "Name":"信大賓館",
+    "Add":"320 桃園市中壢區中正路15號6樓之1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22236,24.95869 ]
+    },
+    "properties": {
+    "Name":"景園大旅社",
+    "Add":"320 桃園市中壢區新生路65-12號7-10樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30692,24.99747 ]
+    },
+    "properties": {
+    "Name":"蜜月世紀大飯店(3星)",
+    "Add":"330 桃園市桃園區三民路三段55號(1-12樓)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.19265,25.02105 ]
+    },
+    "properties": {
+    "Name":"林園居民宿",
+    "Add":"337 桃園市大園區溪海里23鄰聖德北路1370巷56號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22574,24.95473 ]
+    },
+    "properties": {
+    "Name":"福隆大旅社",
+    "Add":"320 桃園市中壢區中平路16號2-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"松林渡假山莊",
+    "Add":"336 桃園市復興區華陵村9鄰63號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29857,25.01093 ]
+    },
+    "properties": {
+    "Name":"潮摩鐵汽車旅館",
+    "Add":"330 桃園市桃園區大興西路二段69巷12號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.40017,25.01655 ]
+    },
+    "properties": {
+    "Name":"天鵝湖汽車旅館(2星)",
+    "Add":"333 桃園市龜山區萬壽路一段379號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31258,24.99332 ]
+    },
+    "properties": {
+    "Name":"中南旅社",
+    "Add":"330 桃園市桃園區廣文街27號2-4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22482,24.95383 ]
+    },
+    "properties": {
+    "Name":"五木旅社",
+    "Add":"320 桃園市中壢區中正路15號8樓之1、11、17、19、21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28654,24.88287 ]
+    },
+    "properties": {
+    "Name":"中和旅社",
+    "Add":"335 桃園市大溪區中正路31號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29801,24.98975 ]
+    },
+    "properties": {
+    "Name":"約客頂級汽車旅館",
+    "Add":"330 桃園市桃園區泰山街58號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.34767,24.80494 ]
+    },
+    "properties": {
+    "Name":"基拉耳景觀民宿",
+    "Add":"336 桃園市復興區澤仁里4鄰溪口台55號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29854,25.01378 ]
+    },
+    "properties": {
+    "Name":"邁阿密旅館",
+    "Add":"330 桃園市桃園區同德五街119巷7-23號（單號）1-2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.16777,24.9094 ]
+    },
+    "properties": {
+    "Name":"香格里拉旅館",
+    "Add":"326 桃園市楊梅區梅溪里元化街1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30562,25.01488 ]
+    },
+    "properties": {
+    "Name":"絕色汽車旅館",
+    "Add":"330 桃園市桃園區大興西路一段116號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.13735,25.04246 ]
+    },
+    "properties": {
+    "Name":"黃金海岸商務旅館(2星)",
+    "Add":"328 桃園市觀音區六合街16號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22483,24.95384 ]
+    },
+    "properties": {
+    "Name":"帝國大旅社",
+    "Add":"320 桃園市中壢區中正路15號11樓之1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.20667,24.91224 ]
+    },
+    "properties": {
+    "Name":"一六八旅館-平鎮館",
+    "Add":"324 桃園市平鎮區上海路122號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3097,25.01199 ]
+    },
+    "properties": {
+    "Name":"桃園智選假日飯店(3星)",
+    "Add":"330 桃園市桃園區春日路1039號1-12樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22198,24.96665 ]
+    },
+    "properties": {
+    "Name":"雲端商務旅館",
+    "Add":"320 桃園市中壢區環北路191號1-7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.37685,25.05384 ]
+    },
+    "properties": {
+    "Name":"寶浤總裁行館",
+    "Add":"333 桃園市龜山區文化一路86-18號1-4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.36274,25.06042 ]
+    },
+    "properties": {
+    "Name":"福容徠旅 林口",
+    "Add":"333 桃園市龜山區文二一街68號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.16066,24.88688 ]
+    },
+    "properties": {
+    "Name":"麗多森林溫泉酒店",
+    "Add":"326 桃園市楊梅區東森路3號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22675,24.95293 ]
+    },
+    "properties": {
+    "Name":"美堤時尚旅店",
+    "Add":"320 桃園市中壢區健行路7號、9號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.35017,24.76941 ]
+    },
+    "properties": {
+    "Name":"如沐初光",
+    "Add":"336 桃園市復興區羅浮里6鄰高坡3-6號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.35488,24.84236 ]
+    },
+    "properties": {
+    "Name":"山裡生活民宿",
+    "Add":"336 桃園市復興區三民里14鄰大窩路601號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3135,24.99129 ]
+    },
+    "properties": {
+    "Name":"歐帝花園商旅",
+    "Add":"330 桃園市桃園區中正路48巷7號1樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22695,24.97083 ]
+    },
+    "properties": {
+    "Name":"儷灣經典旅舘",
+    "Add":"320 桃園市中壢區華夏路173號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.18962,24.95562 ]
+    },
+    "properties": {
+    "Name":"愛莉園汽車旅館(2星)",
+    "Add":"324 桃園市平鎮區高雙路70號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.34797,24.82612 ]
+    },
+    "properties": {
+    "Name":"普拉多山丘假期",
+    "Add":"336 桃園市復興區三民里水管頭23-1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29859,24.86389 ]
+    },
+    "properties": {
+    "Name":"新大溪民宿",
+    "Add":"335 桃園市大溪區順和路21號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.32642,24.88221 ]
+    },
+    "properties": {
+    "Name":"桃園大溪笠復威斯汀度假酒店",
+    "Add":"335 桃園市大溪區日新路166號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30624,25.01479 ]
+    },
+    "properties": {
+    "Name":"愛多頂級會館",
+    "Add":"330 桃園市桃園區經國路299號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2933,25.0616 ]
+    },
+    "properties": {
+    "Name":"秘密花園汽車旅館",
+    "Add":"338 桃園市蘆竹區長興路一段100號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21861,25.02047 ]
+    },
+    "properties": {
+    "Name":"艾爾芙公園行旅",
+    "Add":"337 桃園市大園區大仁路109號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22474,24.95483 ]
+    },
+    "properties": {
+    "Name":"中央環球大飯店",
+    "Add":"320 桃園市中壢區中平路55號2-7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28442,24.87355 ]
+    },
+    "properties": {
+    "Name":"大溪甘單樸宿",
+    "Add":"335 桃園市大溪區勝利街79巷1弄1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.37497,24.81744 ]
+    },
+    "properties": {
+    "Name":"綠光森林",
+    "Add":"336 桃園市復興區志繼19之2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29571,24.89169 ]
+    },
+    "properties": {
+    "Name":"大嵙涵河岸民宿",
+    "Add":"335 桃園市大溪區月眉里13鄰月湖路80號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22732,24.95288 ]
+    },
+    "properties": {
+    "Name":"奇美國際時尚旅館",
+    "Add":"320 桃園市中壢區東興里新興路194巷18號2-6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31272,24.91591 ]
+    },
+    "properties": {
+    "Name":"食午之棲",
+    "Add":"335 桃園市大溪區中新里中庄下崁15-7號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.35216,24.82312 ]
+    },
+    "properties": {
+    "Name":"瑞士鄉村",
+    "Add":"336 桃園市復興區三民里1鄰水管頭13-2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39953,24.67661 ]
+    },
+    "properties": {
+    "Name":"谷點咖啡民宿",
+    "Add":"336 桃園市復興區華陵里8鄰巴崚30號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.33444,24.81127 ]
+    },
+    "properties": {
+    "Name":"富玉休閒農莊",
+    "Add":"336 桃園市復興區三民里7鄰枕頭山11號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.27641,24.89688 ]
+    },
+    "properties": {
+    "Name":"歐堡汽車旅館",
+    "Add":"335 桃園市大溪區埔頂路一段61號及1段59巷1-3,5-35號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3668,24.80243 ]
+    },
+    "properties": {
+    "Name":"田芝林民宿",
+    "Add":"336 桃園市復興區羅浮里2鄰合流37之2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21922,24.85663 ]
+    },
+    "properties": {
+    "Name":"凱虹汽車旅舘",
+    "Add":"325 桃園市龍潭區中正路506號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2191,24.95444 ]
+    },
+    "properties": {
+    "Name":"沐楓商務旅館",
+    "Add":"320 桃園市中壢區博愛三路38號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"薔薇谷",
+    "Add":"336 桃園市復興區華陵里11鄰巴崚180之14號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.35107,24.76759 ]
+    },
+    "properties": {
+    "Name":"北橫之星",
+    "Add":"336 桃園市復興區羅浮里7鄰高坡33-1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.35377,25.00051 ]
+    },
+    "properties": {
+    "Name":"亞典春天汽車旅館",
+    "Add":"333 桃園市龜山區華美街21號1-2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23616,24.96619 ]
+    },
+    "properties": {
+    "Name":"摩斯汽車旅館 MosMotel (3星) ",
+    "Add":"320 桃園市中壢區中園路75號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.15389,24.90399 ]
+    },
+    "properties": {
+    "Name":"君洋城堡旅館",
+    "Add":"326 桃園市楊梅區中山里環東路110巷15弄2、6、8號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2479,24.86949 ]
+    },
+    "properties": {
+    "Name":"悅華大酒店",
+    "Add":"325 桃園市龍潭區九龍里悅華路100號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28618,24.8827 ]
+    },
+    "properties": {
+    "Name":"大溪老街登龍寶第",
+    "Add":"335 桃園市大溪區登龍路5號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.15624,24.88244 ]
+    },
+    "properties": {
+    "Name":"揚昇山莊",
+    "Add":"326 桃園市楊梅區楊昇路256號1-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31285,24.9934 ]
+    },
+    "properties": {
+    "Name":"綠島大旅社",
+    "Add":"330 桃園市桃園區廣文街15號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2118,24.99674 ]
+    },
+    "properties": {
+    "Name":"高鐵背包客",
+    "Add":"320 桃園市中壢區東芝路161巷16號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21577,24.82394 ]
+    },
+    "properties": {
+    "Name":"十六石遛民宿",
+    "Add":"325 桃園市龍潭區高平里18鄰高楊南路701巷2弄16號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21287,24.86504 ]
+    },
+    "properties": {
+    "Name":"老街42-轉妹家",
+    "Add":"325 桃園市龍潭區龍潭里龍元路42號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29091,25.04399 ]
+    },
+    "properties": {
+    "Name":"水立方汽車旅館",
+    "Add":"338 桃園市蘆竹區南榮里光明路1段109號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21161,25.05858 ]
+    },
+    "properties": {
+    "Name":"城市商旅-航空館",
+    "Add":"337 桃園市大園區中正東路442號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21359,24.94375 ]
+    },
+    "properties": {
+    "Name":"愛錸汽車旅館(3星)",
+    "Add":"324 桃園市平鎮區新德街215號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21683,24.86438 ]
+    },
+    "properties": {
+    "Name":"中正美學飯店",
+    "Add":"325 桃園市龍潭區中正路206號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.27688,24.89674 ]
+    },
+    "properties": {
+    "Name":"人客旅館",
+    "Add":"335 桃園市大溪區埔頂路一段50號、50-1號至50-30號2F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.20225,24.85638 ]
+    },
+    "properties": {
+    "Name":"樸隄商務旅館",
+    "Add":"325 桃園市龍潭區上林村中豐路上林段506、508、510號2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28801,25.05683 ]
+    },
+    "properties": {
+    "Name":"富立登國際大飯店",
+    "Add":"338 桃園市蘆竹區長榮路55號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22106,24.95993 ]
+    },
+    "properties": {
+    "Name":"以琳商務旅館",
+    "Add":"320 桃園市中壢區興國里中美路二段117號6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29764,25.01289 ]
+    },
+    "properties": {
+    "Name":"蘇活汽車旅館(3星)",
+    "Add":"330 桃園市桃園區大興西路二段80巷27號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.19072,24.95723 ]
+    },
+    "properties": {
+    "Name":"哈密瓜汽車旅館─中壢館",
+    "Add":"320 桃園市中壢區桃園市平鎮區高雙路30號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"峻林渡假農場",
+    "Add":"336 桃園市復興區華陵村神木路189之1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.34001,25.06993 ]
+    },
+    "properties": {
+    "Name":"林口維多利亞民宿",
+    "Add":"338 桃園市蘆竹區坑子里八德二路280巷11號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22442,25.0206 ]
+    },
+    "properties": {
+    "Name":"和陽行館",
+    "Add":"337 桃園市大園區領航南路四段303號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29173,24.91856 ]
+    },
+    "properties": {
+    "Name":"僑愛大旅社",
+    "Add":"335 桃園市大溪區介壽路343號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28601,24.88198 ]
+    },
+    "properties": {
+    "Name":"大溪老街水噹噹民宿",
+    "Add":"335 桃園市大溪區中山路46號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"雲頂．觀雲雅築",
+    "Add":"336 桃園市復興區華陵里14鄰巴崚145之20號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"梵雲小棧",
+    "Add":"336 桃園市復興區華陵里14鄰巴崚156之13號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.27367,24.84736 ]
+    },
+    "properties": {
+    "Name":"逸雲莊",
+    "Add":"335 桃園市大溪區康莊路三段583巷270號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.14567,24.91023 ]
+    },
+    "properties": {
+    "Name":"壽樂大飯店",
+    "Add":"326 桃園市楊梅區大成路48號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.13558,25.04387 ]
+    },
+    "properties": {
+    "Name":"草漯居",
+    "Add":"328 桃園市觀音區福二街46號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.36848,24.78515 ]
+    },
+    "properties": {
+    "Name":"羅浮天空",
+    "Add":"336 桃園市復興區義盛里大利幹13號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3044,24.99159 ]
+    },
+    "properties": {
+    "Name":"中悅國際大飯店(2星)",
+    "Add":"330 桃園市桃園區南門里育樂街20號2-7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28706,24.88173 ]
+    },
+    "properties": {
+    "Name":"新南一二文創商行",
+    "Add":"335 桃園市大溪區中山路12號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2869,24.88563 ]
+    },
+    "properties": {
+    "Name":"和平92共室",
+    "Add":"335 桃園市大溪區和平路92號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28681,24.87583 ]
+    },
+    "properties": {
+    "Name":"日安",
+    "Add":"335 桃園市大溪區一德里11鄰康莊路349號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.36594,25.05633 ]
+    },
+    "properties": {
+    "Name":"東楓Motel ",
+    "Add":"333 桃園市龜山區文化二路52巷66號1-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28773,24.87932 ]
+    },
+    "properties": {
+    "Name":"大溪老城四季行館",
+    "Add":"335 桃園市大溪區中央路35-1,37號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.38316,24.67959 ]
+    },
+    "properties": {
+    "Name":"北橫貫下巴陵溫泉山莊",
+    "Add":"336 桃園市復興區華陵里7鄰巴崚21之1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31408,25.0117 ]
+    },
+    "properties": {
+    "Name":"新格旅館",
+    "Add":"330 桃園市桃園區寶山街296號3-6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.36884,25.0566 ]
+    },
+    "properties": {
+    "Name":"長庚會館",
+    "Add":"333 桃園市龜山區文昌三街89號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1841,24.83965 ]
+    },
+    "properties": {
+    "Name":"渴望會館",
+    "Add":"325 桃園市龍潭區渴望路428號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31293,25.00825 ]
+    },
+    "properties": {
+    "Name":"怡和飯店",
+    "Add":"330 桃園市桃園區民富九街96號1-7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31165,24.98998 ]
+    },
+    "properties": {
+    "Name":"桃花園飯店(4星)",
+    "Add":"330 桃園市桃園區文化里2鄰復興路147、151、153號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31568,24.99115 ]
+    },
+    "properties": {
+    "Name":"一品商務飯店",
+    "Add":"330 桃園市桃園區復興路98號11樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.16697,24.8473 ]
+    },
+    "properties": {
+    "Name":"繞山花民宿",
+    "Add":"325 桃園市龍潭區三和里11鄰龍新路三和段1369巷70號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29697,25.07844 ]
+    },
+    "properties": {
+    "Name":"羅里海山輕旅",
+    "Add":"338 桃園市蘆竹區濱海里海山路三段146號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31028,24.99491 ]
+    },
+    "properties": {
+    "Name":"爵起商務飯店(2星)",
+    "Add":"330 桃園市桃園區民權路106巷3號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.36438,25.06075 ]
+    },
+    "properties": {
+    "Name":"華夏國際飯店",
+    "Add":"333 桃園市龜山區大崗村文化二路28號6-13樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22016,24.96014 ]
+    },
+    "properties": {
+    "Name":"168汽車旅館(中壢二館)",
+    "Add":"320 桃園市中壢區中美路二段160號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.42207,24.69636 ]
+    },
+    "properties": {
+    "Name":"恩愛農場",
+    "Add":"336 桃園市復興區華陵里10鄰巴崚143號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.37858,24.7251 ]
+    },
+    "properties": {
+    "Name":"蘋果農莊",
+    "Add":"336 桃園市復興區高義里7鄰色霧鬧20號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39522,24.84306 ]
+    },
+    "properties": {
+    "Name":"東眼山農場",
+    "Add":"336 桃園市復興區霞雲村5鄰佳志20號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29934,24.95959 ]
+    },
+    "properties": {
+    "Name":"百宣商務旅館",
+    "Add":"334 桃園市八德區介壽路一段906號1-7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29139,25.04648 ]
+    },
+    "properties": {
+    "Name":"貝克漢汽車旅館",
+    "Add":"338 桃園市蘆竹區桃園街97號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.24764,24.83491 ]
+    },
+    "properties": {
+    "Name":"三坑老爹",
+    "Add":"325 桃園市龍潭區永昌路51巷18弄18號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31237,24.99387 ]
+    },
+    "properties": {
+    "Name":"新和大旅社",
+    "Add":"330 桃園市桃園區廣文街26號1-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22018,24.95844 ]
+    },
+    "properties": {
+    "Name":"中壢米堤大飯店",
+    "Add":"320 桃園市中壢區中央西路一段120號22樓至27樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.37125,24.80189 ]
+    },
+    "properties": {
+    "Name":"隱峇里山莊",
+    "Add":"336 桃園市復興區羅浮里2鄰合流58號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.34256,24.80375 ]
+    },
+    "properties": {
+    "Name":"河那灣",
+    "Add":"336 桃園市復興區澤仁里3鄰溪口台41號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.38691,24.81148 ]
+    },
+    "properties": {
+    "Name":"秘境瀑布民宿",
+    "Add":"336 桃園市復興區霞雲里庫志10號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30651,24.96117 ]
+    },
+    "properties": {
+    "Name":"松雨汽車旅館",
+    "Add":"334 桃園市八德區大千里東勇街37號2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21908,24.85847 ]
+    },
+    "properties": {
+    "Name":"溫馨旅館(2星)",
+    "Add":"325 桃園市龍潭區中正路457號1-2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1843,24.84333 ]
+    },
+    "properties": {
+    "Name":"馬廄民宿",
+    "Add":"325 桃園市龍潭區三和里6鄰渴望二路125巷72弄13號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.12835,25.00037 ]
+    },
+    "properties": {
+    "Name":"康莊蓮園民宿",
+    "Add":"328 桃園市觀音區大堀里4鄰大富路280巷29弄68號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22734,24.95507 ]
+    },
+    "properties": {
+    "Name":"英倫假期旅店",
+    "Add":"320 桃園市中壢區中山路41號3樓、3樓之1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.14182,24.96494 ]
+    },
+    "properties": {
+    "Name":"悠悅旅館",
+    "Add":"327 桃園市新屋區中山東路二段536號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"拓荒者木屋",
+    "Add":"336 桃園市復興區華陵里13鄰巴崚189之11號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.36318,25.06004 ]
+    },
+    "properties": {
+    "Name":"新棧汽車旅館",
+    "Add":"333 桃園市龜山區文化三路37巷29之1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22465,24.9575 ]
+    },
+    "properties": {
+    "Name":"桂冠旅館",
+    "Add":"320 桃園市中壢區裕民街24號2-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23878,24.87541 ]
+    },
+    "properties": {
+    "Name":"龍都旅社",
+    "Add":"325 桃園市龍潭區中興路63巷6號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.17672,25.0583 ]
+    },
+    "properties": {
+    "Name":"桃禧航空城酒店-新館",
+    "Add":"337 桃園市大園區南港里園航路28號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.20722,24.9572 ]
+    },
+    "properties": {
+    "Name":"日月光國際大飯店(3星)",
+    "Add":"324 桃園市平鎮區民族路二段69號 3-12樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.40184,24.69407 ]
+    },
+    "properties": {
+    "Name":"溪景生態農莊",
+    "Add":"336 桃園市復興區華陵里11鄰巴崚180-2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22013,24.95869 ]
+    },
+    "properties": {
+    "Name":"新舍商旅-中壢館",
+    "Add":"320 桃園市中壢區中央西路一段120號30樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31448,24.99601 ]
+    },
+    "properties": {
+    "Name":"沃客商旅-桃園館",
+    "Add":"330 桃園市桃園區中山東路51號11樓之1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2236,24.95975 ]
+    },
+    "properties": {
+    "Name":"愛時租旅館",
+    "Add":"320 桃園市中壢區中美路一段18號5、6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.42111,24.6947 ]
+    },
+    "properties": {
+    "Name":"俠雲山莊",
+    "Add":"336 桃園市復興區巴陵143-5號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41661,24.69308 ]
+    },
+    "properties": {
+    "Name":"拉拉山高園農場",
+    "Add":"336 桃園市復興區神木路11鄰192-3號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23826,24.83778 ]
+    },
+    "properties": {
+    "Name":"漫楓宿",
+    "Add":"325 桃園市龍潭區佳安里10鄰佳安西路4巷76弄8號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41627,24.68955 ]
+    },
+    "properties": {
+    "Name":"三好莊園",
+    "Add":"336 桃園市復興區拉拉山中心路160之5號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21157,24.98611 ]
+    },
+    "properties": {
+    "Name":"青逸居",
+    "Add":"320 桃園市中壢區芝芭里東芝路一段361巷16號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.36659,25.05712 ]
+    },
+    "properties": {
+    "Name":"愛之星汽車旅館",
+    "Add":"333 桃園市龜山區文化二路50號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28088,24.86571 ]
+    },
+    "properties": {
+    "Name":"河岸森林農莊",
+    "Add":"335 桃園市大溪區瑞安路2段150號3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39709,24.67873 ]
+    },
+    "properties": {
+    "Name":"36號農場",
+    "Add":"336 桃園市復興區巴崚33之5號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21093,25.00462 ]
+    },
+    "properties": {
+    "Name":"青埔商務旅館",
+    "Add":"337 桃園市大園區公園路一段82號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30299,25.01392 ]
+    },
+    "properties": {
+    "Name":"福容大飯店　桃園",
+    "Add":"330 桃園市桃園區大興西路1段200號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.18205,24.83716 ]
+    },
+    "properties": {
+    "Name":"雅舍輕旅",
+    "Add":"325 桃園市龍潭區渴望路205巷46號1-8樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"天恩農場",
+    "Add":"336 桃園市復興區神木路193-2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30307,25.00687 ]
+    },
+    "properties": {
+    "Name":"薇緹文旅",
+    "Add":"330 桃園市桃園區中正路703號1樓、3-9樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30767,24.99998 ]
+    },
+    "properties": {
+    "Name":"太客旅店",
+    "Add":"330 桃園市桃園區中正路391、393號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41055,24.69059 ]
+    },
+    "properties": {
+    "Name":"達觀農場",
+    "Add":"336 桃園市復興區神木路189號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30316,25.01863 ]
+    },
+    "properties": {
+    "Name":"輕時尚文創汽車旅館",
+    "Add":"330 桃園市桃園區新埔里5鄰天祥5街42號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41634,24.68915 ]
+    },
+    "properties": {
+    "Name":"嶺鎮渡假木屋",
+    "Add":"336 桃園市復興區華陵里14鄰中心路210巷2號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.40547,24.68973 ]
+    },
+    "properties": {
+    "Name":"雲棧民宿",
+    "Add":"336 桃園市復興區巴陵道路135-6號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41138,24.68835 ]
+    },
+    "properties": {
+    "Name":"觀雲休憩農莊",
+    "Add":"336 桃園市復興區華陵里14鄰中心路210巷19號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22394,24.9536 ]
+    },
+    "properties": {
+    "Name":"花漾旅館",
+    "Add":"320 桃園市中壢區中和路180號5樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41436,24.6926 ]
+    },
+    "properties": {
+    "Name":"拉拉山雲莊農場",
+    "Add":"336 桃園市復興區192-6號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.37282,24.67208 ]
+    },
+    "properties": {
+    "Name":"爺亨梯田農莊",
+    "Add":"336 桃園市復興區三光村8鄰爺亨梯田9號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.24993,24.97288 ]
+    },
+    "properties": {
+    "Name":"金樺旅舘",
+    "Add":"320 桃園市中壢區復華里長興街55巷1、2、3、5-18、20號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41557,24.68898 ]
+    },
+    "properties": {
+    "Name":"桃山渡假農場",
+    "Add":"336 桃園市復興區中心路156之7號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29048,24.99355 ]
+    },
+    "properties": {
+    "Name":"大都會旅館",
+    "Add":"330 桃園市桃園區益壽八街5號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.14176,25.03904 ]
+    },
+    "properties": {
+    "Name":"愛登堡汽車旅館",
+    "Add":"328 桃園市觀音區草漯里二聖路87號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.18421,24.9192 ]
+    },
+    "properties": {
+    "Name":"龍觀賓館",
+    "Add":"326 桃園市楊梅區永美路221號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.24814,24.97557 ]
+    },
+    "properties": {
+    "Name":"麗莊汽車旅館",
+    "Add":"320 桃園市中壢區復華街269號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23805,24.93635 ]
+    },
+    "properties": {
+    "Name":"馬村隱園民宿",
+    "Add":"320 桃園市中壢區馬祖新村51號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21009,25.00891 ]
+    },
+    "properties": {
+    "Name":"藍水輕旅",
+    "Add":"337 桃園市大園區高鐵南路一段126號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23249,25.07665 ]
+    },
+    "properties": {
+    "Name":"町 草休行館",
+    "Add":"337 桃園市大園區航站南路9號5樓南側"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21203,24.87708 ]
+    },
+    "properties": {
+    "Name":"愛聚主題旅館",
+    "Add":"324 桃園市平鎮區中豐路269巷2號2-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21354,25.01893 ]
+    },
+    "properties": {
+    "Name":"綠藤輕旅",
+    "Add":"337 桃園市大園區中山南路二段673號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22482,24.95382 ]
+    },
+    "properties": {
+    "Name":"羅曼蒂旅社",
+    "Add":"320 桃園市中壢區中正路15號9樓之1-4、7、9、10、13、14、16、18、20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.16547,24.87187 ]
+    },
+    "properties": {
+    "Name":"外婆的家",
+    "Add":"325 桃園市龍潭區三水里6鄰 大北坑街1998巷38弄8號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2955,25.00921 ]
+    },
+    "properties": {
+    "Name":"歐悅精品汽車旅館-桃園館(3星)",
+    "Add":"330 桃園市桃園區大興西路二段191號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21946,25.02038 ]
+    },
+    "properties": {
+    "Name":"豆子一家輕旅",
+    "Add":"337 桃園市大園區大華一街32號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22662,24.95506 ]
+    },
+    "properties": {
+    "Name":"米淇旅店",
+    "Add":"320 桃園市中壢區中山路75巷11、13、15號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31257,24.9891 ]
+    },
+    "properties": {
+    "Name":"雀巢大飯店",
+    "Add":"330 桃園市桃園區長壽街5之1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.10575,24.9766 ]
+    },
+    "properties": {
+    "Name":"豪登堡汽車旅館",
+    "Add":"327 桃園市新屋區中華路339巷16號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21818,24.88939 ]
+    },
+    "properties": {
+    "Name":"烏樹林從前從前",
+    "Add":"325 桃園市龍潭區龍平路115巷138弄76號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31143,24.99139 ]
+    },
+    "properties": {
+    "Name":"一九一旅店桃園店",
+    "Add":"330 桃園市桃園區中華路12號5樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23792,24.87376 ]
+    },
+    "properties": {
+    "Name":"蒔薈 iHouse",
+    "Add":"325 桃園市龍潭區東興里6鄰 中興路63巷68弄70號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31197,24.98931 ]
+    },
+    "properties": {
+    "Name":"環寶賓館",
+    "Add":"330 桃園市桃園區大同路61號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31284,24.9912 ]
+    },
+    "properties": {
+    "Name":"溫情賓館",
+    "Add":"330 桃園市桃園區中正路56-6號7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31273,24.99153 ]
+    },
+    "properties": {
+    "Name":"京典商務旅館",
+    "Add":"330 桃園市桃園區中正路60號9樓之14-18、20-33、35、37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31831,24.99099 ]
+    },
+    "properties": {
+    "Name":"花語旅館",
+    "Add":"330 桃園市桃園區復興路22,24號1-5樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31186,24.99024 ]
+    },
+    "properties": {
+    "Name":"欣桃大旅社",
+    "Add":"330 桃園市桃園區復興路180號8-10樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22875,24.95393 ]
+    },
+    "properties": {
+    "Name":"東帝位客棧",
+    "Add":"320 桃園市中壢區新興路250號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22778,24.95328 ]
+    },
+    "properties": {
+    "Name":"長緹都會商務旅館",
+    "Add":"320 桃園市中壢區新興路198號7-9樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31283,24.99122 ]
+    },
+    "properties": {
+    "Name":"曖時租旅館",
+    "Add":"330 桃園市桃園區中正路56號8樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31316,24.99185 ]
+    },
+    "properties": {
+    "Name":"城市商旅-桃園車站館",
+    "Add":"330 桃園市桃園區中正路60號6樓及7樓之2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3135,24.99567 ]
+    },
+    "properties": {
+    "Name":"三和旅宿",
+    "Add":"330 桃園市桃園區中山東路9號8樓之5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30824,24.99292 ]
+    },
+    "properties": {
+    "Name":"嘉仕特飯店",
+    "Add":"330 桃園市桃園區中山路203號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21369,25.0178 ]
+    },
+    "properties": {
+    "Name":"和逸飯店桃園青埔館",
+    "Add":"320 桃園市中壢區春德路101號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3134,24.99602 ]
+    },
+    "properties": {
+    "Name":"蓮園旅舘 桃園店",
+    "Add":"330 桃園市桃園區朝陽街5號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21171,24.86544 ]
+    },
+    "properties": {
+    "Name":"龍安旅社",
+    "Add":"325 桃園市龍潭區龍潭里北龍路30號2-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3141,24.99046 ]
+    },
+    "properties": {
+    "Name":"綺樂文旅 桃園館",
+    "Add":"330 桃園市桃園區復興路95號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29471,25.0166 ]
+    },
+    "properties": {
+    "Name":"摩登汽車旅館(3星)",
+    "Add":"330 桃園市桃園區南平路476號2樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.32327,24.97583 ]
+    },
+    "properties": {
+    "Name":"住都大飯店(4星)",
+    "Add":"330 桃園市桃園區桃鶯路398號5-12樓，398-1號1-9樓，398-2號1-9樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2978,25.02451 ]
+    },
+    "properties": {
+    "Name":"尊爵大飯店",
+    "Add":"330 桃園市桃園區莊敬路一段300號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.34321,24.99712 ]
+    },
+    "properties": {
+    "Name":"沐慕精品旅館",
+    "Add":"333 桃園市龜山區萬壽路二段759號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2797,24.89581 ]
+    },
+    "properties": {
+    "Name":"碧雲天汽車旅館（大溪館）",
+    "Add":"335 桃園市大溪區仁一街49號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29389,24.9868 ]
+    },
+    "properties": {
+    "Name":"瑪駿汽車旅館",
+    "Add":"330 桃園市桃園區宏昌七街100號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23523,25.02966 ]
+    },
+    "properties": {
+    "Name":"蹤遊三四五",
+    "Add":"338 桃園市蘆竹區中油街345巷4號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39724,24.68548 ]
+    },
+    "properties": {
+    "Name":"楓墅休憩庭園",
+    "Add":"336 桃園市復興區華陵里14鄰中心路210巷17號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28767,24.88195 ]
+    },
+    "properties": {
+    "Name":"秘境41",
+    "Add":"335 桃園市大溪區興和里19鄰中央路41號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.17593,25.06173 ]
+    },
+    "properties": {
+    "Name":"桃園喜來登酒店(4星)",
+    "Add":"337 桃園市大園區大觀路777號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39762,24.80645 ]
+    },
+    "properties": {
+    "Name":"達彥休閒民宿",
+    "Add":"336 桃園市復興區霞雲里11鄰庫志32號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31448,24.99085 ]
+    },
+    "properties": {
+    "Name":"麗華商務大飯店",
+    "Add":"330 桃園市桃園區復興路81號1、4至7樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21368,24.8578 ]
+    },
+    "properties": {
+    "Name":"萊茵旅館",
+    "Add":"325 桃園市龍潭區金龍路79巷21,21-1號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22894,24.95392 ]
+    },
+    "properties": {
+    "Name":"賓士旅館",
+    "Add":"320 桃園市中壢區新興路258號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2572,24.97336 ]
+    },
+    "properties": {
+    "Name":"金城大旅社",
+    "Add":"320 桃園市中壢區興農路91號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22952,24.95431 ]
+    },
+    "properties": {
+    "Name":"奇異果共享旅店-中壢車站店",
+    "Add":"320 桃園市中壢區新興路286號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.24798,24.83433 ]
+    },
+    "properties": {
+    "Name":"紅橋驛站",
+    "Add":"325 桃園市龍潭區三坑里19鄰永昌路79號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.28383,24.89995 ]
+    },
+    "properties": {
+    "Name":"孔雀大旅社",
+    "Add":"335 桃園市大溪區介壽路904號2-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22767,24.95326 ]
+    },
+    "properties": {
+    "Name":"銀河渡假飯店",
+    "Add":"320 桃園市中壢區新興路194巷5號2-6樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.37025,25.06044 ]
+    },
+    "properties": {
+    "Name":"福容大飯店 桃園機場捷運 A8",
+    "Add":"333 桃園市龜山區復興一路2號3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22104,24.95986 ]
+    },
+    "properties": {
+    "Name":"伊甸園旅店",
+    "Add":"320 桃園市中壢區中美路二段117號5樓、5樓之1、8樓及8樓之1至之4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.36585,25.05389 ]
+    },
+    "properties": {
+    "Name":"悅徠舘",
+    "Add":"333 桃園市龜山區興華三街18號2樓之1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.29188,24.88516 ]
+    },
+    "properties": {
+    "Name":"樂木居河岸行館",
+    "Add":"335 桃園市大溪區信義路117號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4064,25.01799 ]
+    },
+    "properties": {
+    "Name":"碧雲天汽車旅館（龜山館）",
+    "Add":"333 桃園市龜山區萬壽路一段195號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.30812,24.99454 ]
+    },
+    "properties": {
+    "Name":"歐馨賓館",
+    "Add":"330 桃園市桃園區民族路186號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.21943,24.9628 ]
+    },
+    "properties": {
+    "Name":"六星旅館(中壢館)",
+    "Add":"320 桃園市中壢區元化路2段122號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22533,24.95257 ]
+    },
+    "properties": {
+    "Name":"日涵旅館",
+    "Add":"320 桃園市中壢區新興路114號1-4樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4009,24.69412 ]
+    },
+    "properties": {
+    "Name":"福緣山莊",
+    "Add":"336 桃園市復興區華陵里11鄰180-7號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.24281,24.81789 ]
+    },
+    "properties": {
+    "Name":"福華石門水庫渡假飯店",
+    "Add":"325 桃園市龍潭區民富街176號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22133,24.93304 ]
+    },
+    "properties": {
+    "Name":"夢香時尚汽車旅館(2星)",
+    "Add":"324 桃園市平鎮區興埔路169巷118弄1-3號等"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31448,24.99601 ]
+    },
+    "properties": {
+    "Name":"福昇商旅",
+    "Add":"330 桃園市桃園區中山東路51號10樓之1-5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22887,24.95393 ]
+    },
+    "properties": {
+    "Name":"賓利酒店",
+    "Add":"320 桃園市中壢區新興路254號、254號2樓、254號3樓、254號4樓及260號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.24537,24.82723 ]
+    },
+    "properties": {
+    "Name":"伊加伊時尚旅館",
+    "Add":"325 桃園市龍潭區永和路85號2-3樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31648,25.00736 ]
+    },
+    "properties": {
+    "Name":"麗星花園Motel(3星)",
+    "Add":"330 桃園市桃園區民光東路165號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.31276,24.99338 ]
+    },
+    "properties": {
+    "Name":"天祥旅社",
+    "Add":"330 桃園市桃園區廣文街19號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.224,24.95435 ]
+    },
+    "properties": {
+    "Name":"承攜行旅中壢中正館(3星)",
+    "Add":"320 桃園市中壢區中正路51號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22336,24.95723 ]
+    },
+    "properties": {
+    "Name":"育松園商旅",
+    "Add":"320 桃園市中壢區中央西路一段1號5樓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.22888,25.10784 ]
+    },
+    "properties": {
+    "Name":"桃園機場羅里濱海輕旅",
+    "Add":"338 桃園市蘆竹區海港路61巷66號(竹圍漁港蔡虹橋前方)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.27586,24.87906 ]
+    },
+    "properties": {
+    "Name":"蓁愛民宿",
+    "Add":"335 桃園市大溪區瑞安路一段266巷285號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.23354,25.03101 ]
+    },
+    "properties": {
+    "Name":"青隅民宿",
+    "Add":"338 桃園市蘆竹區中油街303巷6號"
+    }
+  }
+]
+}
