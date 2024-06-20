@@ -3,8 +3,6 @@ package models
 import (
 	"strings"
 	"time"
-	"github.com/go-gormigrate/gormigrate/v2"
-	"gorm.io/gorm"
 )
 
 /* ----- Models ----- */
@@ -80,4 +78,3 @@ func UpdateIssueByID(id string, status string, decisionDesc string, updatedBy st
 	err = DBManager.Table("issues").Where("id = ?", id).Updates(&issue).Error
 	return issue, err
 }
-
