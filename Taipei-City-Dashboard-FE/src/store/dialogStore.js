@@ -1,13 +1,3 @@
-// Developed by Taipei Urban Intelligence Center 2023-2024
-
-/* dialogStore */
-/*
-The dialogStore stores all states related to the popups and dialogs in the application.
-To add a new dialog to the existing list, simply give the dialog a name and add it to "dialogs".
-Then, in the component add a conditional statement to render the component only if it's value is switched to true.
-Finally, remember to add the component to the application.
-*/
-
 import { defineStore } from "pinia";
 
 export const useDialogStore = defineStore("dialog", {
@@ -34,6 +24,9 @@ export const useDialogStore = defineStore("dialog", {
 			moreInfo: false,
 			notificationBar: false,
 			reportIssue: false,
+			reportIssueType1: false, // 新增
+			reportIssueType2: false, // 新增
+			reportIssueType3: false, // 新增
 			userSettings: false,
 			embedComponent: false,
 			contributorsList: false,
@@ -90,7 +83,15 @@ export const useDialogStore = defineStore("dialog", {
 		},
 		// Show the report issue dialog and enter the id and name of the component of origin
 		showReportIssue(id, index, name) {
-			this.showDialog("reportIssue");
+			if (id === 7) {
+				this.showDialog("reportIssueType1");
+			} else if (id === 30) {
+				this.showDialog("reportIssueType2");
+			} else if (id === 43) {
+				this.showDialog("reportIssueType3");
+			} else {
+				this.showDialog("reportIssue");
+			}
 			this.issue = {
 				id: id,
 				index: index,

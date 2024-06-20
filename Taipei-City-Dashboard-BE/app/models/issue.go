@@ -3,6 +3,8 @@ package models
 import (
 	"strings"
 	"time"
+	"github.com/go-gormigrate/gormigrate/v2"
+	"gorm.io/gorm"
 )
 
 /* ----- Models ----- */
@@ -20,6 +22,7 @@ type Issue struct {
 	CreatedAt    time.Time `json:"created_at" gorm:"column:created_at;type:timestamp with time zone;not null"`
 	UpdatedAt    time.Time `json:"updated_at" gorm:"column:updated_at;type:timestamp with time zone;not null"`
 }
+
 
 /* ----- Handlers ----- */
 
@@ -65,17 +68,16 @@ func CreateIssue(title string, userName string, userID string, context string, d
 	issue.UserID = userID
 	issue.Context = context
 	issue.Description = description
-
 	err = DBManager.Create(&issue).Error
 	return issue, err
 }
 
-func UpdateIssueByID(id string, status string, descisionDesc string, updatedBy string) (issue Issue, err error) {
+func UpdateIssueByID(id string, status string, decisionDesc string, updatedBy string) (issue Issue, err error) {
 	issue.UpdatedAt = time.Now()
 	issue.Status = status
-	issue.DecisionDesc = descisionDesc
+	issue.DecisionDesc = decisionDesc
 	issue.UpdatedBy = updatedBy
-
 	err = DBManager.Table("issues").Where("id = ?", id).Updates(&issue).Error
 	return issue, err
 }
+

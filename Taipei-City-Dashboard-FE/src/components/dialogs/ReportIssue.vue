@@ -1,11 +1,10 @@
-<!-- Developed by Taipei Urban Intelligence Center 2023-2024 -->
-
+<!-- ReportIssue.vue -->
 <script setup>
-import { ref } from "vue";
-import http from "../../router/axios";
+import { ref, computed } from "vue";
 import { useDialogStore } from "../../store/dialogStore";
 import { useAuthStore } from "../../store/authStore";
 import { useContentStore } from "../../store/contentStore";
+import http from "../../router/axios";
 import DialogContainer from "./DialogContainer.vue";
 
 const dialogStore = useDialogStore();
@@ -17,12 +16,22 @@ const allInputs = ref({
 	description: "",
 	title: "",
 });
+
 const issueTypes = [
 	"組件基本資訊有誤",
 	"組件資料有誤或未更新",
 	"系統問題",
 	"其他建議",
 ];
+
+const issueTypes2 = ["酒店", "餐廳", "夜店", "KTV"];
+
+const currentDialog = computed(() => {
+	if (dialogStore.dialogs.reportIssueType1) return "reportIssueType1";
+	if (dialogStore.dialogs.reportIssueType2) return "reportIssueType2";
+	if (dialogStore.dialogs.reportIssueType3) return "reportIssueType3";
+	return "reportIssue";
+});
 
 async function handleSubmit() {
 	const submitObject = {
@@ -38,50 +47,99 @@ async function handleSubmit() {
 	contentStore.loading = false;
 	handleClose();
 }
+
 function handleClose() {
 	allInputs.value = {
 		type: "組件基本資訊有誤",
 		description: "",
 		title: "",
 	};
-	dialogStore.dialogs.reportIssue = false;
+	dialogStore.hideAllDialogs();
 }
 </script>
 
 <template>
-	<DialogContainer dialog="reportIssue" @on-close="handleClose">
+	<DialogContainer :dialog="currentDialog" @on-close="handleClose">
 		<div class="reportissue">
-			<h2>新增地點</h2>
-			<h3>地址* ({{ allInputs.title.length }}/20)</h3>
-			<input
-				v-model="allInputs.title"
-				class="reportissue-input"
-				type="text"
-				:minLength="1"
-				:maxLength="20"
-				required
-			/>
-			<h3>問題種類*</h3>
-			<div v-for="item in issueTypes" :key="item">
+			<!--一個template一個組件要顯示的回報內容-->
+			<template v-if="currentDialog === 'reportIssueType1'">
+				<h2>警示高風險區域</h2>
+				<!--第一個問題及選項-->
+				<h3>地址* ({{ allInputs.title.length }}/20)</h3>
 				<input
-					:id="item"
-					v-model="allInputs.type"
-					class="reportissue-radio"
-					type="radio"
-					:value="item"
+					v-model="allInputs.title"
+					class="reportissue-input"
+					type="text"
+					:minLength="1"
+					:maxLength="20"
+					required
 				/>
-				<label :for="item">
-					<div />
-					{{ item }}
-				</label>
-			</div>
-			<h3>問題簡述* ({{ allInputs.description.length }}/200)</h3>
-			<textarea
-				v-model="allInputs.description"
-				:minLength="1"
-				:maxLength="200"
-				required
-			/>
+				<!--問題種類標題及選項-->
+				<h3>場所*</h3>
+				<div v-for="item in issueTypes2" :key="item">
+					<input
+						:id="item"
+						v-model="allInputs.type"
+						class="reportissue-radio"
+						type="radio"
+						:value="item"
+					/>
+					<label :for="item">
+						<div />
+						{{ item }}
+					</label>
+				</div>
+				<!--問題簡述標題及文字框-->
+				<h3>問題簡述* ({{ allInputs.description.length }}/200)</h3>
+				<textarea
+					v-model="allInputs.description"
+					:minLength="1"
+					:maxLength="200"
+					required
+				/>
+				<!-- Type 1 specific content -->
+			</template>
+			<template v-else-if="currentDialog === 'reportIssueType2'">
+				<h2>新增地點 - Type 2</h2>
+				<!-- Type 2 specific content -->
+			</template>
+			<template v-else-if="currentDialog === 'reportIssueType3'">
+				<h2>警察回報給代駕</h2>
+				<h3>人數* ({{ allInputs.title.length }}/20)</h3>
+				<input
+					v-model="allInputs.title"
+					class="reportissue-input"
+					type="text"
+					:minLength="1"
+					:maxLength="20"
+					required
+				/>
+				<h3>場所*</h3>
+				<div v-for="item in issueTypes2" :key="item">
+					<input
+						:id="item"
+						v-model="allInputs.type"
+						class="reportissue-radio"
+						type="radio"
+						:value="item"
+					/>
+					<label :for="item">
+						<div />
+						{{ item }}
+					</label>
+				</div>
+				<!--問題簡述標題及文字框-->
+				<h3>場所名稱* ({{ allInputs.description.length }}/200)</h3>
+				<textarea
+					v-model="allInputs.description"
+					:minLength="1"
+					:maxLength="200"
+					required
+				/>
+				<!-- Type 3 specific content -->
+			</template>
+
+			<!--下面都一樣不用動-->
 			<div class="reportissue-control">
 				<button class="reportissue-control-cancel" @click="handleClose">
 					取消
