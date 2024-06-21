@@ -26,10 +26,19 @@ const issueTypes = [
 
 const issueTypes2 = ["酒店", "餐廳", "夜店", "KTV"];
 
+const issueTypes3 = [
+	"疑似酒駕",
+	"確定酒駕",
+	"因酒駕造成的交通事故",
+	"其他(請寫在詳細描述)",
+];
+
 const currentDialog = computed(() => {
 	if (dialogStore.dialogs.reportIssueType1) return "reportIssueType1";
 	if (dialogStore.dialogs.reportIssueType2) return "reportIssueType2";
 	if (dialogStore.dialogs.reportIssueType3) return "reportIssueType3";
+	if (dialogStore.dialogs.reportIssueType4) return "reportIssueType4";
+	if (dialogStore.dialogs.reportIssueType5) return "reportIssueType5";
 	return "reportIssue";
 });
 
@@ -99,10 +108,44 @@ function handleClose() {
 				/>
 				<!-- Type 1 specific content -->
 			</template>
+
 			<template v-else-if="currentDialog === 'reportIssueType2'">
-				<h2>新增地點 - Type 2</h2>
-				<!-- Type 2 specific content -->
+				<h2>民眾舉報 定位位置(起始點)</h2>
+				<h3>車型&車牌號碼填寫* ({{ allInputs.title.length }}/20)</h3>
+				<input
+					v-model="allInputs.title"
+					class="reportissue-input"
+					type="text"
+					:minLength="1"
+					:maxLength="20"
+					required
+				/>
+				<h3>問題*</h3>
+				<div v-for="item in issueTypes3" :key="item">
+					<input
+						:id="item"
+						v-model="allInputs.type"
+						class="reportissue-radio"
+						type="radio"
+						:value="item"
+					/>
+					<label :for="item">
+						<div />
+						{{ item }}
+					</label>
+				</div>
+				<!--問題簡述標題及文字框-->
+				<h3>
+					詳細描述(發現地址)* ({{ allInputs.description.length }}/200)
+				</h3>
+				<textarea
+					v-model="allInputs.description"
+					:minLength="1"
+					:maxLength="200"
+					required
+				/>
 			</template>
+
 			<template v-else-if="currentDialog === 'reportIssueType3'">
 				<h2>警察回報給代駕</h2>
 				<h3>人數* ({{ allInputs.title.length }}/20)</h3>
@@ -137,6 +180,120 @@ function handleClose() {
 					required
 				/>
 				<!-- Type 3 specific content -->
+			</template>
+
+			<template v-else-if="currentDialog === 'reportIssueType4'">
+				<h2>代駕服務</h2>
+				<h3>上車地點* ({{ allInputs.title.length }}/20)</h3>
+				<input
+					v-model="allInputs.title"
+					class="reportissue-input"
+					type="text"
+					:minLength="1"
+					:maxLength="20"
+					required
+				/>
+				<h3>場所*</h3>
+				<div v-for="item in issueTypes2" :key="item">
+					<input
+						:id="item"
+						v-model="allInputs.type"
+						class="reportissue-radio"
+						type="radio"
+						:value="item"
+					/>
+					<label :for="item">
+						<div />
+						{{ item }}
+					</label>
+				</div>
+				<!--問題簡述標題及文字框-->
+				<h3>
+					簡述(1.姓名 2.連絡電話 3.希望代駕抵達時間)* ({{
+						allInputs.description.length
+					}}/200)
+				</h3>
+				<textarea
+					v-model="allInputs.description"
+					:minLength="1"
+					:maxLength="200"
+					required
+				/>
+				<!-- Type 3 specific content -->
+			</template>
+
+			<template v-else-if="currentDialog === 'reportIssueType5'">
+				<h2>警察回報給代駕</h2>
+				<h3>人數* ({{ allInputs.title.length }}/20)</h3>
+				<input
+					v-model="allInputs.title"
+					class="reportissue-input"
+					type="text"
+					:minLength="1"
+					:maxLength="20"
+					required
+				/>
+				<h3>場所*</h3>
+				<div v-for="item in issueTypes2" :key="item">
+					<input
+						:id="item"
+						v-model="allInputs.type"
+						class="reportissue-radio"
+						type="radio"
+						:value="item"
+					/>
+					<label :for="item">
+						<div />
+						{{ item }}
+					</label>
+				</div>
+				<!--問題簡述標題及文字框-->
+				<h3>場所名稱* ({{ allInputs.description.length }}/200)</h3>
+				<textarea
+					v-model="allInputs.description"
+					:minLength="1"
+					:maxLength="200"
+					required
+				/>
+				<!-- Type 3 specific content -->
+			</template>
+
+			<template v-if="currentDialog === 'reportIssue'">
+				<h2>建議與反饋</h2>
+				<!--第一個問題及選項-->
+				<h3>地址* ({{ allInputs.title.length }}/20)</h3>
+				<input
+					v-model="allInputs.title"
+					class="reportissue-input"
+					type="text"
+					:minLength="1"
+					:maxLength="20"
+					required
+				/>
+				<!--問題種類標題及選項-->
+				<h3>問題種類*</h3>
+				<div v-for="item in issueTypes" :key="item">
+					<input
+						:id="item"
+						v-model="allInputs.type"
+						class="reportissue-radio"
+						type="radio"
+						:value="item"
+					/>
+					<label :for="item">
+						<div />
+						{{ item }}
+					</label>
+				</div>
+				<!--問題簡述標題及文字框-->
+				<h3>問題簡述* ({{ allInputs.description.length }}/200)</h3>
+				<textarea
+					v-model="allInputs.description"
+					:minLength="1"
+					:maxLength="200"
+					required
+				/>
+				<!-- Type 1 specific content -->
 			</template>
 
 			<!--下面都一樣不用動-->

@@ -84,11 +84,15 @@ export const useDialogStore = defineStore("dialog", {
 		// Show the report issue dialog and enter the id and name of the component of origin
 		showReportIssue(id, index, name) {
 			if (id === 7) {
-				this.showDialog("reportIssueType1");
+				this.showDialog("reportIssueType1"); //邱(警示高風險區域)
 			} else if (id === 30) {
-				this.showDialog("reportIssueType2");
+				this.showDialog("reportIssueType2"); //林(民眾舉報 定位位置(起始點))
 			} else if (id === 43) {
-				this.showDialog("reportIssueType3");
+				this.showDialog("reportIssueType3"); //邱(警示回報給代駕)
+			} else if (id === 82) {
+				this.showDialog("reportIssueType4"); //云(代駕服務)
+			} else if (id === 90) {
+				this.showDialog("reportIssueType5");
 			} else {
 				this.showDialog("reportIssue");
 			}
